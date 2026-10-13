@@ -28,7 +28,7 @@ While building this project, I practiced:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Rahul-Chaurasiya-Code/Calculator.git
+   git clone https://github.com/Rahul-Chaurasiya-Code/Calculator
    ```
 
 2. Open the project folder.
